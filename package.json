@@ -1,0 +1,18 @@
+{
+  "name": "spy",
+  "description": "This is a simple starter template for a running Coffeescript powered Node app on Heroku.",
+  "author": "jacky blues",
+  "version": "0.0.1",
+  "homepage": "https://tomasky.github.com",
+  "engines": { "node":"0.6 || 0.7", "npm":"1.1" },
+  "main": "index.coffee",
+  "dependencies": {
+    "coffee-script": "*"
+  },
+  "repositories": [
+    { "type":"git", "url":"git://github.com/jackywyz/Dcoffee.git" }
+  ],
+  "licenses": [
+    { "type":"MIT", "url":"https://tomasky.github.com"}
+  ]
+}
