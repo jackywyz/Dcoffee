@@ -4,5 +4,5 @@ route = (handle,pathname) ->
     else
         return "No request handler found!"
 
-sum = 2*3
+sum = 2-3
 exports.route = route
